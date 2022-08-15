@@ -1,0 +1,19 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "botium": {
+    "convodirs": [
+      "spec/convo"
+    ],
+    "expandConvos": true,
+    "expandUtterancesToConvos": false
+  },
+  "devDependencies": {
+    "botium-bindings": "latest",
+    "botium-connector-directline3": "../../",
+    "mocha": "latest"
+  }
+}

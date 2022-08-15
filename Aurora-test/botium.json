@@ -1,0 +1,26 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "Directline3 Plugin Sample",
+      "CONTAINERMODE": "directline3",
+      "DIRECTLINE3_SECRET": "fPhlst0O3ag.7XuxM-3aFIPpDa56Byc_daHcE0nIYFRDsJRYZjwfnkk",
+      "DIRECTLINE3_BUTTON_TYPE": "message",
+      "DIRECTLINE3_BUTTON_VALUE_FIELD": "text",
+      "DIRECTLINE3_HANDLE_ACTIVITY_TYPES": "message,event",
+      "DIRECTLINE3_ACTIVITY_TEMPLATE": {
+        "channelData": {
+          "my-special-channel-data": "..."
+        }
+      },
+      "USER_INPUTS": [
+        {
+          "ref": "MEDIA",
+          "src": "MediaInput",
+          "args": {
+            "downloadMedia": true
+          }
+        }
+      ]      
+    }
+  }
+}
