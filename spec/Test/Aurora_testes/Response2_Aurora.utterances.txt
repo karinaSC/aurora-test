@@ -1,3 +1,0 @@
-Response2_Aurora
-
-O Programa Aurora é o projeto abrangente para todos os projetos SAP S/4 Hana da ABI globalmente.

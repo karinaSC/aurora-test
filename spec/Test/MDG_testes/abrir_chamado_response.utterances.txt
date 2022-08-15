@@ -1,7 +1,0 @@
-abri_chamado_mdg
-
-Voce pode abrir uma requisição de serviço ou reportar um erro a partir dos links abaixo do Service Now:
-
-Solicitação de Serviço:(https://abinbevww.service-now.com/abiex?id=sc_cat_item&sys_id=faef2542dbd130502ebe5612f3961990&sysparm_category=f8a2ab4b1bcfc950a5ddddf3b24bcb12&catalog_id=9df4d21e1b2a81d0f861a640604bcbd7)
-
-Incidente: (https://abinbevww.service-now.com/abiex?id=sc_cat_item&sys_id=5ad2235adb1cc050f17eb29f29961934)

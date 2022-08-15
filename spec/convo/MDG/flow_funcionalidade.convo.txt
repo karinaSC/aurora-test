@@ -1,7 +1,0 @@
-flow_funcionalidade
-
-#me
-funcionalidade_mdg
-
-#bot
-funcionlidade_response
