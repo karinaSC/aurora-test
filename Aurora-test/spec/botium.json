@@ -1,7 +1,7 @@
 {
   "botium": {
     "Capabilities": {
-      "PROJECTNAME": "Directline3 Plugin Sample",
+      "PROJECTNAME": "Aurora-test",
       "CONTAINERMODE": "directline3",
       "DIRECTLINE3_SECRET": "fPhlst0O3ag.7XuxM-3aFIPpDa56Byc_daHcE0nIYFRDsJRYZjwfnkk",
       "DIRECTLINE3_BUTTON_TYPE": "message",
