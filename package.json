@@ -1,0 +1,57 @@
+{
+  "name": "botium-connector-directline3",
+  "version": "0.1.1",
+  "description": "Botium Connector for Bot Framework Direct Line 3 API",
+  "main": "dist/botium-connector-directline3-cjs.js",
+  "module": "dist/botium-connector-directline3-es.js",
+  "scripts": {
+    "build": "npm run eslint && rollup -c",
+    "eslint": "eslint index.js",
+    "eslint-fix": "eslint --fix index.js",
+    "update-dependencies": "npm-check-updates --reject node-fetch -u --timeout 120000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeforequity-at/botium-connector-directline3.git"
+  },
+  "author": "Botium GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeforequity-at/botium-connector-directline3/issues"
+  },
+  "homepage": "https://www.botium.ai",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/node": "^7.16.8",
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "eslint": "^8.13.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-standard": "^4.1.0",
+    "npm-check-updates": "^12.5.9",
+    "rollup": "^2.70.2",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.17.9",
+    "better-queue": "^3.8.10",
+    "botframework-directlinejs": "^0.15.1",
+    "debug": "^4.3.4",
+    "form-data": "^4.0.0",
+    "lodash": "^4.17.21",
+    "mime-types": "^2.1.35",
+    "node-fetch": "2.6.7",
+    "uuid": "^8.3.2",
+    "ws": "^8.5.0",
+    "xhr2": "^0.2.1"
+  },
+  "peerDependencies": {
+    "botium-core": ">= 1.9.0"
+  }
+}
