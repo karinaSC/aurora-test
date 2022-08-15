@@ -1,6 +1,0 @@
-quem_e_responses
-
-MDG como parte da Workstream MDM. 
-Abaixo você pode conferir pontos focais para MDG: 
-Proprietário do produto: Marcus Rocha (marcus.rocha@ab-inbev.com)
-O líder técnico deste fluxo de trabalho é o Gabriel Santos (gabrielr.santos@ab-inbev.com)
