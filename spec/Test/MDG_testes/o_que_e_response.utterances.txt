@@ -1,0 +1,3 @@
+O_que_e_response
+
+O SAP Master Data Governance é uma solução líder de mercado que permite definir, aplicar, monitorar e melhorar os dados mestre entre domínios para gerenciamento central ou descentralizado de dados mestre em cenários híbridos.
