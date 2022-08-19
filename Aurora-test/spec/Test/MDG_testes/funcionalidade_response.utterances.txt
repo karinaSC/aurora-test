@@ -1,1 +1,3 @@
 funcionlidade_response
+
+O aplicativo SAP Master Data Governance ajuda você a coletar dados mestres e gerenciá-los centralmente, com uma camada de gerenciamento de dados mestres baseada na SAP Business Technology Platform.

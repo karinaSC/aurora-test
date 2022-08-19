@@ -1,13 +1,13 @@
-tm_UTT
+o_que_e_tm
 
 O que é TM?
-Transportation Management.
-Dê-me uma descrição do TM"
-Dê-me uma breve descrição do TM.
-Resumo de TM.
+Transportation Management
+Dê-me uma descrição do TM
+Dê-me uma breve descrição do TM
+Resumo de TM
 Qual é a descrição de TM?
 Quais são os benefícios do TM?
-Responda-me benefícios do TM.
+Responda-me benefícios do TM
 Por que devo usar o TM?
 Por que devo escolher TM em vez de outro?
 Como a TM pode me ajudar?

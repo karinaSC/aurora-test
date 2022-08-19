@@ -1,0 +1,3 @@
+objetivo_s4hana_response3
+
+No programa Aurora, utilizaremos o SAP S4 Hana de forma padronizada e sem customizações no core do produto. Toda necessidade ou integração será realizada por aplicações externas ou microserviços desenvolvidos para comunicação e execução de processos dentro do core do SAP.

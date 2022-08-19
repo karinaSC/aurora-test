@@ -1,0 +1,5 @@
+#me
+Tchau_UTT
+
+ #bot
+ Tchau_responses

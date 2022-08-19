@@ -1,0 +1,82 @@
+escalonar_utt
+
+Falar com agente
+Conversar com agente
+Falar com uma pessoa
+Conversar com uma pessoa
+Falar com alguém
+Conversar com alguém
+Retornar chamada
+Ligar de volta
+Ligar para o SAC
+Ligue para mim, por favor
+Me ligue, por favor
+Liguem para mim, por favor
+Me liguem, por favor
+Ligar para o suporte
+Ligar para o suporte técnico
+A chamada para o suporte foi interrompida
+Um agente pode ligar para mim?
+Um agente pode me ligar?
+Posso ligar?
+Você pode me conectar com o agente anterior?
+Você pode me informar um número?
+Posso falar com outra pessoa?
+Posso ter suporte de um agente real?
+Você pode me transferir para falar com uma pessoa?
+Você pode me informar um número ou ligar para mim?
+Você pode me informar um número ou me ligar?
+Um representante pode ligar para mim?
+Um representante pode me ligar?
+Posso agendar uma chamada?
+Posso falar com um representante?
+Posso falar com uma pessoa?
+Posso falar com um assistente humano?
+Alguém pode ligar para mim?
+Alguém pode me ligar?
+Você pode me informar o número do suporte ao cliente para eu falar sobre problemas técnicos?
+Não consigo falar com o número do suporte listado
+Conversar com um representante
+Conversar com alguém, por favor
+Conversar com o suporte
+Conectar-me com um agente humano
+Conectar-me com uma pessoa
+Contatar uma pessoa
+Contatar agente
+Contatar o suporte ao cliente
+Contatar número
+Contatar alguém
+Alguém pode me contatar por telefone?
+Agente do cliente
+Representante do cliente
+SAC
+Fui desconectado do chat de ajuda com uma pessoa
+Fui desconectada do chat de ajuda com uma pessoa
+Olá, quero reingressar no chat com especialista
+Olá, quero entrar de novo no chat com especialista
+Oi, quero reingressar no chat com especialista
+Oi, quero entrar de novo no chat com especialista
+Fui desconectado do agente humano, reconecte-me a ele
+Fui desconectado do agente humano, me reconecte a ele
+Fui desconectada do agente humano, reconecte-me a ele
+Fui desconectada do agente humano, me reconecte a ele
+Preciso do número do SAC
+Preciso que um gerente me contate
+Preciso que um gerente entre em contato comigo
+Preciso do SAC
+Preciso de ajuda de uma pessoa
+Preciso de um número de telefone
+Preciso de assistência técnica
+Preciso de suporte técnico
+Preciso de uma sessão de chat ao vivo
+Preciso reconectar com o chat de suporte
+Preciso falar com um agente humano
+Preciso falar com um especialista
+Quero falar com o SAC
+Quero continuar com o suporte ao vivo
+Quero falar com um consultor
+Quero falar com Imposição
+Quero falar com um técnico
+Gostaria de falar com um representante
+Gostaria de falar com um técnico
+Falar com membro do suporte técnico

@@ -1,0 +1,7 @@
+obrigado_flow
+
+#me
+obrigado_utt
+
+#bot
+obrigado_responses

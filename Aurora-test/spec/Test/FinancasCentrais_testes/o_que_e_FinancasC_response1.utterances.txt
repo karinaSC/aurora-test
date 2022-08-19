@@ -1,0 +1,3 @@
+o_que_e_FinancasC_response1
+
+O CFIN faz parte de um cenário de adoção do S/4 Hana: ele adapta os usuários à tecnologia, terminologia e conceitos do S/4 Hana, enquanto mantém sistemas e processos legados existentes para minimizar a interrupção dos negócios.

@@ -4,4 +4,4 @@ flow_abrirChamado
 abri_chamado_mdg
 
 #bot
-abrir_chamado_response
+abrir_chamado_response_mdg

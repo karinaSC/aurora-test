@@ -1,0 +1,3 @@
+o_que_e_sap_fiori_responses2
+
+Os blocos SAP Fiori são executados em vários tipos de dispositivos e fornecem um único ponto de acesso para aplicativos de negócios, como aplicativos de negócios transacionais, analíticos, informativos e inteligentes.

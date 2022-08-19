@@ -1,0 +1,3 @@
+o_que_e_FinancasC_response2
+
+Mais especificamente, o cFIN é um módulo do SAP S/4 Hana Finance que reúne dados transacionais de vários sistemas financeiros em um aplicativo usando uma linguagem financeira comum.

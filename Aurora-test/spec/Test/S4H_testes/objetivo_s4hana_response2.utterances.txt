@@ -1,0 +1,3 @@
+objetivo_s4hana_response2
+
+o SAP S/4HANA implusiona instantaneamente o valor de todas as linhas de negócio da AB-Inbev. O sistema faz a gestão de informação e dados de imediato  – partilha insights com o utilizador o que permite desenvolver ações a praticar no momento. É inteligente – indo para além da automação para apresentar sugestões preditivas. Este sistema de gestão de informação é integrado, não só entre departamentos, mas com o mundo.

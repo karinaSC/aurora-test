@@ -1,4 +1,4 @@
-abri_chamado_mdg
+abrir_chamado_response_mdg
 
 Voce pode abrir uma requisição de serviço ou reportar um erro a partir dos links abaixo do Service Now:
 

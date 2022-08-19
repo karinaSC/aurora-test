@@ -1,0 +1,3 @@
+o_que_e_sirius_response
+
+É uma camada Azure na web onde é possível fazer a navegação e fazer consultas sobre o pedido.

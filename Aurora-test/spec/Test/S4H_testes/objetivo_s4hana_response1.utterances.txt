@@ -1,0 +1,3 @@
+objetivo_s4hana_response
+
+O software SAP S/4HANA é um ERP em tempo real para negócios digitais. Este sistema integrado de informação e gestão, e oferece uma experiência de utilizador personalizada, através do SAP Fiori.

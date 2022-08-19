@@ -1,0 +1,3 @@
+o_que_e_sap_fiori_responses1
+
+O SAP Fiori Launchpad é conhecido como o ponto de entrada para o sistema de aplicativos Fiori em dispositivos móveis e desktop. Para acessar o SAP Fiori, os usuários devem abrir o navegador de internet do dispositivo e digitar a URL do Fiori para acessar o portal. Ele contém várias peças no sistema Fiori. Ladrilhos são objetos quadrados que são usados ​​para acessar diferentes aplicativos Fiori. O acesso a esses blocos é baseado nas funções do usuário.

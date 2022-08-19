@@ -1,0 +1,10 @@
+CancelarAcao
+
+#me
+Cancelar_Acao
+
+#bot
+CancelarAcao_response
+
+#bot
+vamos_lá
