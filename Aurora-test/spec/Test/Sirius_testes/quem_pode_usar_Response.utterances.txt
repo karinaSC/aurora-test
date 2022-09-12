@@ -1,0 +1,3 @@
+quem_pode_usar_Response
+
+O Sirius é destinado ao time de logística do CSC, célula de pedidos AS e Revenda, time da malha e time de agenda.

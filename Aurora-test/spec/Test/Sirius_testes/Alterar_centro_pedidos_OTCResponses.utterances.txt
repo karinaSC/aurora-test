@@ -1,0 +1,3 @@
+Alterar_centro_pedidos_OTCResponses
+
+Atualmente os clientes terão apenas uma opção de atendimento, por CD ou por VD. Futuramente será possível fazer a transição entre os dois canais.

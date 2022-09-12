@@ -1,0 +1,7 @@
+Alterar_centro_pedidos_OTC
+
+Existe a opção de alterar o centro dos pedidos de fábrica para CDD ou vice e versa?
+Como alterar o centro pedido da fábrica para CDD.
+Posso alterar o centro de pedidos?
+É possível alterar o centro de pedidos?
+Consigo alterar o centro de custo de um pedido?

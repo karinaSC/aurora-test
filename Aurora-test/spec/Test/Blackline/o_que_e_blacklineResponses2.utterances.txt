@@ -1,0 +1,3 @@
+o_que_e_blacklineResponses2
+
+Também possui uma autocertificação onde na ferramenta irá certificar uma reconciliação baseada em lógicas habilitadas sem quaisquer intervenções manuais. Ele também é capaz de importar itens de linha do ERP para as respectivas reconciliações automaticamente usando o recurso do módulo de correspondência de transações.

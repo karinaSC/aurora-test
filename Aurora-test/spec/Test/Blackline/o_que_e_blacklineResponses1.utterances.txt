@@ -1,0 +1,3 @@
+o_que_e_blacklineResponses1
+
+BlackLine é uma ferramenta que ajuda a automatizar o processo de reconciliação de contas. É capaz de integração com ERP para interface automática de saldos GL e sub-razão para reconciliação do sistema ERP para Blackline.

@@ -1,0 +1,3 @@
+codigo_subir_templateResponse
+
+Será aceito somente o código SAP, pois o EG deixará de existir após o período Interim.

@@ -1,0 +1,7 @@
+codigo_subir_template
+
+É possivel subir o template de pedido manual com o código SAP e o EG?
+Qual código será aceito para subir template manual?
+Que tipo de código será aceito?
+Possibilidades para subir o template manual.
+O código EG será aceito?

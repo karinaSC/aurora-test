@@ -1,0 +1,3 @@
+alterar_data_venc_pedido_OTCResponses
+
+Por decisão da área de negócios, não podemos alterar a data de vencimento de um pedido.
